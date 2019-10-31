@@ -4,4 +4,5 @@ second_number = 3
 
 sum = first_number + second_number
 difference 
-
+product
+quotient
